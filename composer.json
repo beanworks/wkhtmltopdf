@@ -1,0 +1,10 @@
+{
+    "name": "beanworks/wkhtmltopdf",
+    "description": "the static compiled binary for ubuntu bionic amd64 systems unpacked from the wkhtmltopdf project.",
+    "license": "GPL-3.0-or-later",
+    "minimum-stability": "stable",
+    "bin": [
+        "bin/wkhtmltopdf"
+    ],
+    "require": {}
+}
